@@ -1,2 +1,2 @@
-# deep-physiology
-comparing neural networks and neurons
+# deep-neurophysiology
+comparing neural networks and neurons for a better world
